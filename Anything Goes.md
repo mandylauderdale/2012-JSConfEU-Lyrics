@@ -1,6 +1,6 @@
 Anything Goes
 =
-(about what goes on in the tech industry and to the tune of the Broadway song, "Anything Goes")
+(about what goes on in the tech industry; to the tune of "Anything Goes")
 
 Times have changed <br>
 Conferences and meetup groups <br>
